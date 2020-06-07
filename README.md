@@ -8,8 +8,11 @@
 
 Пример config.txt:
 1todomain@todomain.com 2todomain@todomain.com 3todomain@todomain.com
+
 Test_Subject
+
 image_test_1.png image_test_2.png image_test_3.png test_text_1.txt test_text_2.txt
+
 Пример text.txt:
 Test_Text
 
