@@ -25,4 +25,5 @@ image_test_1.png image_test_2.png image_test_3.png test_text_1.txt test_text_2.t
 Test_Text
 
 По указаному примеру будут отправлены письма по адресам: 1todomain@todomain.com, 2todomain@todomain.com, 3todomain@todomain.com, с темой: Test_Subject, с сообщением: Test_Text, c прикрепленными фаилами: image_test_1.png, image_test_2.png, image_test_3.png, test_text_1.txt, test_text_2.txt.
+
 Автор: Исаков Юрий КН-201(МЕН-280206)
